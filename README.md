@@ -8,13 +8,11 @@
                                                                           
 ```
 # gotoscaffold
-golang版脚手架，集成了一些常用的功能函数。
+golang, 集成了一些常用的功能函数。
 
-A golang scaffold, some commonly used functions are collected. 
+A golang, some commonly used functions are collected. 
 
-如果项目对你有帮助，恳请您点个'Star'。
 
-If the project is helpful to you, please order a 'Star'.
 
 
 # Usage
